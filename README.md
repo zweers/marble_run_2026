@@ -1,5 +1,7 @@
-Schablones for making the tracks and suppoort:
-these schablones are for making either 2d (lasercut) or 3D printed schablones used for drawing cutting and folding lines on paper.
+Schablones for making the tracks and support:
+
+These schablones are for making either 2d (lasercut) or 3D printed schablones used for drawing cutting and folding lines on paper.
+
 layout.pdf is the actual design with folding (blue) and cutting (black) line 
 "marble run shapes" contains 4 shapes and shows how the traced designs will look like. you can also print them on thick paper and cut & fold them 
 

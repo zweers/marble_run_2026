@@ -1,3 +1,7 @@
+Manual: 
+
+there is a German manual , aimed at whom is setting up / coaching the workshop. It is not for the participants ( they don't need one)
+
 Schablones for making the tracks and support:
 
 These schablones are for making either 2d (lasercut) or 3D printed schablones used for drawing cutting and folding lines on paper.

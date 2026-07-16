@@ -1,4 +1,4 @@
-These files ar to cut paper to make marble runs with track and support made of thick paper. 
+These files are to cut paper to make marble runs with track and support made of thick paper. 
 You can use and change these designs freely, but under copyright: CC 2026 BY NC SA
 Wout Zweers 2026
 ----------------------------------------------------------------------------------------------

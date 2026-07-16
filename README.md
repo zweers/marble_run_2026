@@ -10,7 +10,7 @@ this repo contains
 4) a 3D printable support for holding the folded track which can be mounted on a stick
 -----------------------------------------------------------------------------------------------
 
-Manual: 
+1) Manual: 
 
 there is a German and a Dutch manual , aimed at whom is setting up / coaching the workshop. It is not for the participants ( they don't need one)
 

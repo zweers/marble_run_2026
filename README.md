@@ -9,6 +9,7 @@ this repo contains
 3) examples of the shapes of the paper sheets, ready to cut and fold
 4) a 3D printable support for holding the folded track which can be mounted on a stick
 
+
 1) Manual: 
 
 there is a German and a Dutch manual , aimed at whom is setting up / coaching the workshop. It is not for the participants ( they don't need one)

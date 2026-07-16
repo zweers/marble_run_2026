@@ -4,7 +4,7 @@ there is a German and a Dutch manual , aimed at whom is setting up / coaching th
 
 Schablones for making the tracks and support:
 
-These schablones are for making either 2d (lasercut) or 3D printed schablones used for drawing cutting and folding lines on paper.
+These schablones come as a 2D file for lasercutting (the ones with cardboard in the name) or for 3D printed schablones (the ones with 3D in the name). they can be used for drawing cutting and folding lines on paper.
 
 layout_all_shapes.pdf is the actual design with folding (blue) and cutting (black) line 
 

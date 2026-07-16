@@ -8,7 +8,7 @@ this repo contains
 2) files for making schablones from cardboard or 3d printed,
 3) examples of the shapes of the paper sheets, ready to cut and fold
 4) a 3D printable support for holding the folded track which can be mounted on a stick
-
+-----------------------------------------------------------------------------------------------
 
 Manual: 
 

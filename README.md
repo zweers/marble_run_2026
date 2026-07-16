@@ -10,7 +10,7 @@ layout_all_shapes.pdf is the actual design with folding (blue) and cutting (blac
 
 "marble run shapes" contains 4 shapes and shows how the traced designs will look like. you can also print them on thick paper and cut & fold them 
 
-They are also in the xTool file (the laser at aufweiterflur) and can be used to cut the schablones in cardboard 0.5mm. 
+They are also in the schablone murmelbahn xTool file (for the laser at aufweiterflur) and can be used to cut the schablones in cardboard 0.5mm. 
 
 3D file for use on a bamboo 4mm diameter stick:
 

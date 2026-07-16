@@ -18,7 +18,7 @@ there is a German and a Dutch manual , aimed at whom is setting up / coaching th
 
 These schablones come as a 2D file for lasercutting (the ones with cardboard in the name) or for 3D printed schablones (the ones with 3D in the name). they can be used for drawing cutting and folding lines on paper.
 
-They are also in the "schablone murmelbahn xTool" file (for the laser at aufweiterflur) and can be used to cut the schablones in cardboard 0.5mm. 
+The 2D files are also included in the "schablone murmelbahn xTool" file (for the laser at aufweiterflur) and can be used to cut the schablones in cardboard 0.5mm. 
 
 3) "marble run shapes" contains 4 shapes and shows how the traced designs will look like. you can also print them on thick paper and cut & fold them. The folding lines are blue and cutting lines are black.
 
